@@ -13,3 +13,6 @@ and now i have studing colud computing cource at cloud blitz classes.
 in cloud comuting class i have learnd linux,aws and devops tools
 
 in linux i have learned user-managment,special permissions,package managment and networikin and some services.
+
+after that i have started learing aws 
+
